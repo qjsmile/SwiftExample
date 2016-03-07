@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Person>
+    <User>
+        <id>1</id>
+        <name>小明1</name>
+        <age>10</age>
+    </User>
+    <User>
+        <id>2</id>
+        <name>小红2</name>
+        <age>8</age>
+    </User>
+    <User>
+        <id>3</id>
+        <name>小花3</name>
+        <age>12</age>
+    </User>
+</Person>
+<!--<?xml version="1.0" encoding="UTF-8"?>-->
+<!--<Person>-->
+<!--    <User id ="1">-->
+<!--        <name> 小明 </name>-->
+<!--        <age> 10 </age>-->
+<!--    </User>-->
+<!--    <User id ="2">-->
+<!--        <name> 小红 </name>-->
+<!--        <age> 8 </age>-->
+<!--    </User>-->
+<!--    <User id ="3">-->
+<!--        <name> 小花 </name>-->
+<!--        <age> 12 </age>-->
+<!--    </User>-->
+<!--</Person>-->
